@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **JavaScript, React, Styled Components, Tailwind CSS**
+- 🔭 I’m currently working on **JavaScript, React, Nuxt, Tailwind CSS**
 - 📫 Feel free to reach me out [max80713@hotmail.com](max80713@hotmail.com)
 
 <!--
